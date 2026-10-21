@@ -24,7 +24,9 @@ function App() {
     <p >{jam < 12?'Selamat Pagi':'Selamat Siang'}</p>
     <button disabled>Bayar</button>
    
-    
+    <panel>judul = 'Menu Hari Ini'
+      
+    </panel>
    </>
   )
 }

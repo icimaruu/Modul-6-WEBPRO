@@ -1,8 +1,8 @@
 function panel(props) {
     return (
         <div className="panel">
-            <p>{props.children}</p>
-            <p>{props.judul}</p>
+            <p>{children}</p>
+            <p>{judul}</p>
         </div>
     );
 }
